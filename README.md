@@ -1,6 +1,6 @@
 # code_hannip_greedi
 
-Code
+Sample code of codehannip ver 1.0.4
 
 ## Getting Started
 
