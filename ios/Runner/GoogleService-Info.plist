@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>910225307296-rbjf21k46vecu8c8utks0b21h8l28jn1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.910225307296-rbjf21k46vecu8c8utks0b21h8l28jn1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>910225307296-rnh54ebgs2jfv9hst7pne7utum1aevkc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj373vLAYm-Wny19DZVVjm6bSLPsSrNA4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>910225307296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.greedi.code-hannip</string>
+	<key>PROJECT_ID</key>
+	<string>greedi-x-swfact</string>
+	<key>STORAGE_BUCKET</key>
+	<string>greedi-x-swfact.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:910225307296:ios:deae41fabc0f37ff3cbbc5</string>
+	<key>DATABASE_URL</key>
+	<string>https://greedi-x-swfact.firebaseio.com</string>
+</dict>
+</plist>

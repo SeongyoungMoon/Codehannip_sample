@@ -1,0 +1,109 @@
+[{
+  "answer": "+",
+  "choices": [
+    {
+      "choice": "+",
+      "isSelected": false
+    },
+    {
+      "choice": "-",
+      "isSelected": false
+    },
+    {
+      "choice": "*",
+      "isSelected": false
+    },
+    {
+      "choice": "/",
+      "isSelected": false
+    }
+  ],
+  "description": "숫자 6를 출력하려고 합니다. 밑줄에 들어갈 코드를 골라봅시다.",
+  "level": 1,
+  "problem": ["print(2 \n___\" 4)"],
+  "stage": 4,
+  "step": 1,
+  "title": "사칙연산자에 대해 알아봅시다."
+},
+  {
+    "answer": "+",
+    "choices": [
+      {
+        "choice": "+",
+        "isSelected": false
+      },
+      {
+        "choice": "-",
+        "isSelected": false
+      },
+      {
+        "choice": "*",
+        "isSelected": false
+      },
+      {
+        "choice": "/",
+        "isSelected": false
+      }
+    ],
+    "description": "숫자 6를 출력하려고 합니다. 밑줄에 들어갈 코드를 골라봅시다.",
+    "level": 2,
+    "problem": ["print(2 ___ 4)"],
+    "stage": 4,
+    "step": 1,
+    "title": "사칙연산자에 대해 알아봅시다."
+  },
+  {
+    "answer": "+",
+    "choices": [
+      {
+        "choice": "+",
+        "isSelected": false
+      },
+      {
+        "choice": "-",
+        "isSelected": false
+      },
+      {
+        "choice": "*",
+        "isSelected": false
+      },
+      {
+        "choice": "/",
+        "isSelected": false
+      }
+    ],
+    "description": "숫자 6를 출력하려고 합니다. 밑줄에 들어갈 코드를 골라봅시다.",
+    "level": 3,
+    "problem": ["print(2 ___ 4)"],
+    "stage": 4,
+    "step": 1,
+    "title": "사칙연산자에 대해 알아봅시다."
+  },
+  {
+    "answer": "+",
+    "choices": [
+      {
+        "choice": "+",
+        "isSelected": false
+      },
+      {
+        "choice": "-",
+        "isSelected": false
+      },
+      {
+        "choice": "*",
+        "isSelected": false
+      },
+      {
+        "choice": "/",
+        "isSelected": false
+      }
+    ],
+    "description": "숫자 6를 출력하려고 합니다. 밑줄에 들어갈 코드를 골라봅시다.",
+    "level": 4,
+    "problem": ["print(2 ___ 4)"],
+    "stage": 4,
+    "step": 1,
+    "title": "사칙연산자에 대해 알아봅시다."
+  }
+]
