@@ -1,6 +1,8 @@
 # code_hannip_greedi
 
-Sample code of codehannip ver 1.0.4
+광고 기능을 개발 중인 코드한입의 샘플 코드입니다.
+
+현재 코드는 깃랩에서 개발되고있으며, gitlab_overview 사진 파일을 참고해주시길 바랍니다.
 
 ## Getting Started
 
